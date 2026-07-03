@@ -1,4 +1,3 @@
-<script>
 $(document).ready(function() {
     
     // Inejct link gambar Bank Di Sini Lek
@@ -78,4 +77,3 @@ $(document).ready(function() {
     $('head').append('<style>' + style + '</style>');
     //console.log("Ikutin-aja-kali-batu-bet.");
 });
-</script>
